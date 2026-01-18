@@ -1,4 +1,5 @@
 Copy the install.sh file to your home directory.
+
 Make it executable and run:
 
     '''
@@ -8,13 +9,19 @@ Make it executable and run:
 
 What it does (step by step):
 
-✅ Checks Python 3 is installed.
-✅ Creates directory aerodrome-tracker (or your INSTALL_DIR).
-✅ Clones https://github.com/Jay-Marksman/aerodrome-pool-tracker-v4.
-✅ Creates virtual environment .venv.
-✅ Installs all dependencies from requirements.txt.
-✅ Runs indexer to populate pool_events.db with on‑chain events.
-✅ Shows clear next steps to launch the app.
+ ✅ Checks Python 3 is installed.
+
+ ✅ Creates directory aerodrome-tracker (or your INSTALL_DIR).
+
+ ✅ Clones https://github.com/Jay-Marksman/aerodrome-pool-tracker-v4.
+
+ ✅ Creates virtual environment .venv.
+
+ ✅ Installs all dependencies from requirements.txt.
+
+ ✅ Runs indexer to populate pool_events.db with on‑chain events.
+
+ ✅ Shows clear next steps to launch the app.
 
 Features:
 
