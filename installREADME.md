@@ -44,7 +44,7 @@ Optional environment variables:
 
     ./install.sh
     
-After rinning:
+After running:
 
     cd aerodrome-pool-tracker-v4
     source .venv/bin/activate
