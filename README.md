@@ -73,7 +73,7 @@ Key files:
 
 ```bash
 git clone https://github.com/Jay-Marksman/aerodrome-pool-tracker-v4.git
-cd aerodrome-tracker
+cd aerodrome-pool-tracker-v4
 ```
 
 2. **Create and activate a virtual environment (recommended)**
