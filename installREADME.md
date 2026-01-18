@@ -1,4 +1,4 @@
-Copy the install.sh file to your home directory.
+Copy the install.sh file to a directory.
 
 Make it executable and run:
     
