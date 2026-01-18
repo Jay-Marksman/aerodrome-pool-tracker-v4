@@ -1,5 +1,3 @@
-Below is a `README.md` you can drop into the repo. It walks a new user from zero to a working dashboard, and credits all upstream projects and data sources.
-
 ***
 
 # Aerodrome Pool Tracker (Base)
