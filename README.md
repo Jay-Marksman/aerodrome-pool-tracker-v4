@@ -72,7 +72,7 @@ Key files:
 1. **Clone or download this repository**
 
 ```bash
-git clone <your-repo-url> aerodrome-tracker
+git clone https://github.com/Jay-Marksman/aerodrome-pool-tracker-v4.git
 cd aerodrome-tracker
 ```
 
