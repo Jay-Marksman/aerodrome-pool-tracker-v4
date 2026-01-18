@@ -46,7 +46,7 @@ Optional environment variables:
     
 After rinning:
 
-    cd aerodrome-tracker
+    cd aerodrome-pool-tracker-v4
     source .venv/bin/activate
     streamlit run Aerodrome_Base_v4.py
     
