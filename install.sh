@@ -1,19 +1,19 @@
 #!/bin/bash
 
-# Aerodrome Pool Tracker - Automated Installation Script
+# Aerodrome Pool Tracker v4 - Automated Installation Script
 # =====================================================
 # Clones the repo, installs dependencies, runs indexer,
 # and gets you ready to launch the Streamlit app.
 
 set -e  # Exit on any error
 
-echo "🚀 Aerodrome Pool Tracker - Automated Setup"
+echo "🚀 Aerodrome Pool Tracker v4 - Automated Setup"
 echo "=============================================="
 
 # ---------- CONFIG ----------
 BASE_RPC_URL="${BASE_RPC_URL:-https://mainnet.base.org}"
 REPO_URL="https://github.com/Jay-Marksman/aerodrome-pool-tracker-v4.git"
-INSTALL_DIR="${INSTALL_DIR:-aerodrome-tracker}"
+INSTALL_DIR="${INSTALL_DIR:-aerodrome-pool-tracker-v4}"
 
 # ---------- CHECK PYTHON ----------
 if ! command -v python3 &> /dev/null; then
